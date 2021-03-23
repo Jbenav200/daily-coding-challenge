@@ -9,5 +9,5 @@ class CheckSums:
             if k - num in array:
                 self.potential_solutions[k - num] = num
                 print(
-                    f'array pairings: {k - num} => {self.potential_solutions[k-num]} \n')
+                    f'      array pairings: {k - num} => {self.potential_solutions[k-num]} \n')
         return f'The array does not contain two numbers which add up to {k}'

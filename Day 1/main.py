@@ -7,7 +7,7 @@ def main():
     cs = CheckSums()
     print(f'\n\nchecking arrays: {array[0]} and {array[1]} \n')
     for x in array:
-        print(f'for array: {x}')
+        print(f'for array {x}:')
         print(f'{cs.checksums(x, k)} \n')
 
 
