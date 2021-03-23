@@ -8,5 +8,5 @@ class CheckSums:
                 return True
             if k - num in self.array:
                 self.potential_solutions[k - num] = num
-                print(self.potential_solutions)
+                print(f'{k-num} => {self.potential_solutions[k-num]} \n')
         return False
