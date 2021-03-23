@@ -1,6 +1,6 @@
 # Daily Coding Challenge
 
-Sections
+Days
 
 - [Day 1](#day1)
 
