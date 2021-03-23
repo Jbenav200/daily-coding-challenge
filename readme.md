@@ -1,4 +1,4 @@
-### Daily Coding Challenge
+# Daily Coding Challenge
 
 ## Day 1
 
