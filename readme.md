@@ -1,7 +1,8 @@
 # Daily Coding Challenge
 
 Sections
-[Day 1](#day1)
+
+1. [Day 1](#day1)
 
 <a name="day1"></a>
 
