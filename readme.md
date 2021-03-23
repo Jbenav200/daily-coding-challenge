@@ -1,6 +1,6 @@
 # Daily Coding Challenge
 
-provided by https://www.dailycodingproblem.com/
+provided by [Daily Coding Problem](https://www.dailycodingproblem.com/)
 
 Days
 
