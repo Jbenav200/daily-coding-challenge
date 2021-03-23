@@ -5,8 +5,8 @@ class CheckSums:
     def checksums(self, k):
         for num in self.array:
             if num in self.potential_solutions:
-                return True
+                return f'The array contains two numbers which add up to {k}'
             if k - num in self.array:
                 self.potential_solutions[k - num] = num
                 print(f'{k-num} => {self.potential_solutions[k-num]} \n')
-        return False
+        return f'The array does not contain two numbers which add up to {k}'
