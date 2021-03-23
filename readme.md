@@ -2,7 +2,7 @@
 
 Sections
 
-1. [Day 1](#day1)
+- [Day 1](#day1)
 
 <a name="day1"></a>
 
