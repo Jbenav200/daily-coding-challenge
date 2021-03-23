@@ -1,5 +1,10 @@
 # Daily Coding Challenge
 
+Sections
+[Day 1](#day1)
+
+<a name="day1"></a>
+
 ## Day 1
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
