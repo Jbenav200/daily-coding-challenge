@@ -76,16 +76,19 @@ For example, the input
 
 should give
 
-````
+```
 2
-``` The input
+```
+
+The input
+
 ````
 
 [1, 2, 0]
 
 ```should give
 
-```
+````
 
 3
 
