@@ -86,7 +86,9 @@ The input
 
 [1, 2, 0]
 
-```should give
+```
+
+should give
 
 ````
 
