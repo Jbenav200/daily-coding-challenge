@@ -90,7 +90,7 @@ The input
 
 should give
 
-````
+```
 
 3
 
@@ -100,3 +100,4 @@ You can modify the input array in-place.
 
 [solution](https://github.com/Jbenav200/daily-coding-challenge/blob/master/Day%204/challenge4.py)
 ```
+````
