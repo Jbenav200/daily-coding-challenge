@@ -72,15 +72,17 @@ For example, the input
 
 ```
 [3, 4, -1, 1]
+
 ```
 
 should give
 
 ```
 2
+
 ```
 
-The input
+The input :
 
 ````
 
