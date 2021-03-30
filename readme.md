@@ -84,7 +84,7 @@ should give
 
 The input :
 
-````
+```
 
 [1, 2, 0]
 
@@ -101,5 +101,3 @@ should give
 You can modify the input array in-place.
 
 [solution](https://github.com/Jbenav200/daily-coding-challenge/blob/master/Day%204/challenge4.py)
-```
-````
